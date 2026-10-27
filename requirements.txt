@@ -1,0 +1,7 @@
+QuantLib
+jupyter
+ipykernel
+pandas
+numpy
+matplotlib
+openpyxl
